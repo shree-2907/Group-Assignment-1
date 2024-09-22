@@ -30,7 +30,7 @@ This project demonstrates numerical techniques to explore potential near-miss so
 2. **Clone the Repository**:
    ```bash
    git clone https://github.com/shree-2907/Group-Assignment-1.git
-   cd Fermat-Near-Miss-Finder
+   cd Group-Assignment-1
    ```
 
 3. **Compile the Program**:
